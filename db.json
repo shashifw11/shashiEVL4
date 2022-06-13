@@ -1,0 +1,51 @@
+{
+  "dropdown": [
+    {
+      "title": "shashi",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "kundan",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "anubhaw",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "archana",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "divya",
+      "status": false,
+      "id": 5
+    }
+  ] , 
+  "employee" : [
+    {"id":1,"Name":"Loralie","Company":"Boyle-Treutel","CTC":"55188"},
+    {"id":2,"Name":"Pasquale","Company":"Upton LLC","CTC":"6"},
+    {"id":3,"Name":"Lorant","Company":"Kreiger, Kuhic and Zemlak","CTC":"35919"},
+    {"id":4,"Name":"Burt","Company":"Johnson, Gleichner and Halvorson","CTC":"02348"},
+    {"id":5,"Name":"Philis","Company":"Schaden Group","CTC":"3"},
+    {"id":6,"Name":"Stevy","Company":"Hessel-Morissette","CTC":"449"},
+    {"id":7,"Name":"Noreen","Company":"Wisozk-Jerde","CTC":"00"},
+    {"id":8,"Name":"Rice","Company":"Heller LLC","CTC":"4"},
+    {"id":9,"Name":"Falito","Company":"Schuster-Mertz","CTC":"2962"},
+    {"id":10,"Name":"Baldwin","Company":"Dickens and Sons","CTC":"9"},
+    {"id":11,"Name":"Loralee","Company":"Hyatt, Hauck and Bernier","CTC":"108"},
+    {"id":12,"Name":"Bevin","Company":"Gusikowski Group","CTC":"5"},
+    {"id":13,"Name":"Nolan","Company":"Rempel and Sons","CTC":"65546"},
+    {"id":14,"Name":"Brina","Company":"Olson Group","CTC":"45"},
+    {"id":15,"Name":"Erich","Company":"Stark-Macejkovic","CTC":"309"},
+    {"id":16,"Name":"Myrlene","Company":"Roob, O'Kon and Dickinson","CTC":"64"},
+    {"id":17,"Name":"Israel","Company":"Schmidt-Wisoky","CTC":"4759"},
+    {"id":18,"Name":"Bent","Company":"Hagenes LLC","CTC":"52"},
+    {"id":19,"Name":"Darbee","Company":"Littel, Schmitt and Toy","CTC":"783"},
+    {"id":20,"Name":"Kendrick","Company":"Collier Group","CTC":"55145"}
+  ]
+}
